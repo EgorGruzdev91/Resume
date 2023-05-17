@@ -5,6 +5,7 @@
 
 ## Hi, It's me.😎
 
+***
 
 ### You have time to propose while I'm still free.
 
@@ -17,4 +18,6 @@
 
 ### My mail <NoJedi@Vader.com>
 
-### You underestimate the power of the Dark Side.
+***
+
+### **You underestimate the power of the Dark Side.**
